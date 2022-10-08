@@ -5,3 +5,5 @@ It can be compiled with any Fortran 90-compliant compiler, such as *gfortran* (r
 Usage is quite simple and self-explanatory. Feel free to modify the code according to your needs and translate it to other computer languages (it has already been done by others actually).
 
 If you find it useful and if you don't mind, please cite my paper *Ab initio study of TCNQ-doped carbon nanotubes* [https://link.aps.org/doi/10.1103/PhysRevB.73.245422] in your papers in which you use the code, modified or not.
+
+Comments or suggestions? Please, [drop a message](mailto:roberto.veiga@ufabc.edu.br).
