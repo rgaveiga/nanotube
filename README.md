@@ -1,4 +1,4 @@
-This is an old Fortran program for generating carbon nanotube coordinates in XYZ or LAMMPS format to be used as input in DFT calculations or molecular dynamics simulations. The very first version was released in 2005 not only in Fortran, but also in VB Script and CSH Shell, and has undergone few modifications since then.
+This is an old Fortran program for generating carbon nanotube coordinates, in XYZ or LAMMPS format, to be used as input in DFT calculations or molecular dynamics simulations. The very first version was released in 2005 not only in Fortran, but also in VB Script and CSH Shell, and has undergone few modifications since then.
 
 It can be compiled with any Fortran 90-compliant compiler, such as *gfortran* (recommended).
 
